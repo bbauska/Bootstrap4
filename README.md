@@ -1,6 +1,7 @@
 <p>(coursera.org)</p>
-<p style="text-align:center;"><img src="images/image001.png"
-style="width:2.44792in;height:1.01042in" /></p>
+<p align="center">
+<img src="images/image001.png" width="2.44792in">
+
 <h2 id="course-overview">Course Overview</h2>
 <p>Welcome to Front End Web UI Frameworks and Tools: Bootstrap 4.</p>
 <p>I'm glad you decided to join this course to learn about the most
@@ -141,7 +142,8 @@ specialization.</p></li>
 </ul>
 <h2 id="what-is-full-stack-web-development">What is Full-Stack Web
 Development?</h2>
-<h2 id="section"><img src="images/image002.jpg"
+
+<h2 align="center" id="section"><img src="images/image002.jpg"
 style="width:5in;height:2.05716in" /></h2>
 <p>What is Full Stack Web Development?</p>
 <p>Let me clarify to you a few terms so that we started a common
