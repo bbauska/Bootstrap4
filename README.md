@@ -1,5 +1,5 @@
 <p>(coursera.org)</p>
-<p><img src="images/image001.png"
+<p style="text-align:center;"><img src="images/image001.png"
 style="width:2.44792in;height:1.01042in" /></p>
 <h2 id="course-overview">Course Overview</h2>
 <p>Welcome to Front End Web UI Frameworks and Tools: Bootstrap 4.</p>
